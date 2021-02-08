@@ -1,0 +1,1 @@
+LINCS L1000数据库中已积累了多种药物诱导的转录组数据 "http://www.lincsproject.org/"
